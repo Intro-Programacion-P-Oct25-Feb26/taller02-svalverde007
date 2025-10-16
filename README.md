@@ -135,3 +135,5 @@ git push
 25. Verificar la integración del Cambio
 
 * Abrir el archivo README.md y verificar que la línea que agregaste en GitHub
+# Cambio en GitHub
+* Este cambio fue hecho directamente en GitHub
